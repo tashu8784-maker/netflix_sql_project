@@ -1,5 +1,5 @@
-**Netflix Data Analysis Using SQL
-**
+Netflix Data Analysis Using SQL
+
 **Tools Used:** MySQL | SQL Queries | Data Cleaning | Data Exploration
 
 **Project Overview**:
